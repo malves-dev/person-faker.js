@@ -1,0 +1,25 @@
+{
+  "name": "person-fake",
+  "version": "1.0.0",
+  "description": "Data creator of fake people",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malves-dev/person-faker.js.git"
+  },
+  "keywords": [
+    "person",
+    "fake",
+    "data",
+    "fake"
+  ],
+  "author": "Malves malves.dev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malves-dev/person-faker.js/issues"
+  },
+  "homepage": "https://github.com/malves-dev/person-faker.js#readme"
+}
