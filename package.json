@@ -1,6 +1,6 @@
 {
   "name": "person-fake",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data creator of fake people",
   "main": "index.js",
   "scripts": {
