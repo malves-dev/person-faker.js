@@ -1,7 +1,7 @@
 {
   "name": "person-fake",
   "version": "1.0.2",
-  "description": "Data creator of fake people",
+  "description": "Data creator of fake person",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
