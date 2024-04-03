@@ -1,7 +1,7 @@
 {
   "name": "person-fake",
-  "version": "1.0.2",
-  "description": "Data creator of fake person",
+  "version": "1.0.3",
+  "description": "Criador de dados de pessoa fictícia",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
